@@ -1,6 +1,6 @@
-# bare-stm32
+# nucleo-g491re-bare
 
-A minimal **STM32** bare-metal project using the **STM32CubeG4** HAL, built **entirely from scratch** using **CMake** and **no STM32 IDEs or CubeMX**. This setup gives you full control over the build system, source files, and linker script.
+A minimal **STM32** bare-metal project using the **STM32CubeG4** HAL, built **entirely from scratch** using **CMake** and **no STM32 IDEs or CubeMX**. This setup gives you full control over the **NUCLEO-G491RE** build system, source files, and linker script.
 
 ## 🔧 Features
 
